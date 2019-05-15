@@ -1,6 +1,7 @@
 
 public class New1{
 public static void main(String args[]){
+	int a = 5;
 	System.out.println("Hello how are you");
 	System.out.println("How are you");
 	System.out.println("how is t");
